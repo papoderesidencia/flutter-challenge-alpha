@@ -1,2 +1,2 @@
 # desafio-flutter-alpha
-em breve, mais informações :)
+em breve mais informações :)
